@@ -1,3 +1,2 @@
-source: _source 
-destination: _deploy
-
+pygments: true
+github: sallytester
